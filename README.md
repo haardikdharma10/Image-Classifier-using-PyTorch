@@ -7,10 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/haardikdharma10/Image-Classifier-using-PyTorch/issues)
-[![Forks](https://img.shields.io/github/forks/haardikdharma10/Image-Classifier-using-PyTorch.svg?logo=github)](https://github.com/haardikdharma10/Image-Classifier-using-PyTorch/network/members)
-[![Stargazers](https://img.shields.io/github/stars/haardikdharma10/Image-Classifier-using-PyTorch.svg?logo=github)](https://github.com/haardikdharma10/Image-Classifier-using-PyTorch/stargazers)
-[![Issues](https://img.shields.io/github/issues/haardikdharma10/Image-Classifier-using-PyTorch.svg?logo=github)](https://github.com/haardikdharma10/Image-Classifier-using-PyTorch/issues)
-[![MIT License](https://img.shields.io/github/license/haardikdharma10/Image-Classifier-using-PyTorch.svg?style=flat-square)](https://github.com/haardikdharma10/Image-Classifier-using-PyTorch/blob/master/LICENSE)
+[![Forks](https://img.shields.io/github/forks/haardikdharma10/Image-Classifier-using-PyTorch.svg?logo=github) ](https://github.com/haardikdharma10/Image-Classifier-using-PyTorch/network/members)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
